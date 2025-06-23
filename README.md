@@ -7,7 +7,7 @@
 - To build a trustless and tamper-proof commenting system where users can share honest feedback freely, without relying on centralized authorities or being subject to content censorship.
 
 ## Key Features
-- Post comments linked to any unique item ID or hash
+- Post comments linked to any unique item ID 
 - Comments are permanently stored on-chain, ensuring immutability and public transparency
 - Anyone can retrieve comments along with the commenter’s address and timestamp
 - Emits events for every comment, enabling tracking and frontend integrations
