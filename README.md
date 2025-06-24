@@ -1,4 +1,4 @@
-# DecentralizedComments
+# Decentralized Comments
 
 ## Project Description
 - DecentralizedComments is a blockchain-based platform that allows users to post comments or reviews associated with any item identified by a unique ID or hash. All comments are stored on-chain to ensure transparency, censorship resistance, and data immutability.
