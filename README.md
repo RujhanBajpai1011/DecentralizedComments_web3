@@ -8,7 +8,7 @@
 
 ## Key Features
 - Post comments linked to any unique item ID 
-- Comments are permanently stored on-chain, ensuring immutability and public transparency
+- Comments are permanently stored on chain, ensuring immutability and public transparency
 - Anyone can retrieve comments along with the commenter’s address and timestamp
 - Emits events for every comment, enabling tracking and frontend integrations
 
